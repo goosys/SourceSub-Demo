@@ -1,3 +1,3 @@
 # SourceSub-Demo
 
-v1.0rc1
+v1.1
